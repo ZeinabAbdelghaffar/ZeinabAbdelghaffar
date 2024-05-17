@@ -67,6 +67,12 @@ Welcome to my GitHub profile! I'm a detail-oriented Full Stack Web Developer wit
 - **Email:** zeinanabdo88@gmail.com
 - **Location:** Alexandria, Egypt
 
+### GitHub Stats
+![Zeinab Abdelghaffar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinabAbdelghaffar&hide=contribs,prs)
+
+### WakaTime Stats
+[![Zeinab Abdelghaffar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZeinabAbdelghaffar)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
