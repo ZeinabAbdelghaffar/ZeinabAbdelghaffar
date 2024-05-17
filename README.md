@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm a detail-oriented Full Stack Web Developer wit
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabAbdelghaffar&langs_count=8)
 
 ### GitHub Stats
-![Zeinab Abdelghaffar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinabAbdelghaffar&hide=contribs,prs)
+![Zeinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinabAbdelghaffar&show_icons=true&theme=radical)
 
 ---
 
