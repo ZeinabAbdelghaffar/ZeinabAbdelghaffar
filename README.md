@@ -15,26 +15,15 @@ Welcome to my GitHub profile! I'm a detail-oriented Full Stack Web Developer wit
   - Degree: A.
   - *2019 – 2023*
 
-### Projects 🛠️
-1. **Ecommerce Furniture Website**
-   - Developed an ecommerce website using the MEAN stack (MongoDB - Express.js - Angular - Node.js) for furniture sales.
-   - [GitHub Repository](https://github.com/NourhanRadwan145/ecommerce-furniture-website)
-
-2. **Instagram Clone**
-   - Replicated core features and functionalities of the Instagram platform.
-   - Frontend: HTML, CSS, SCSS, JavaScript.
-   - Backend: PHP, Laravel, MySQL.
-   - [GitHub Repository](https://github.com/xMohamd/instagram)
-
-3. **Good Shoes**
-   - An e-commerce platform providing a seamless shopping experience for footwear enthusiasts.
-   - Technologies: JavaScript, HTML, CSS, JSON.
-   - [GitHub Repository](https://github.com/ZeinabAbdelghaffar/Good-Shoes-JS-project)
 
 ### Internships 💼
 - **Internet of Things (IoT) Application Development**
   - Information Technology Institute.
   - *August 2022 – September 2022*
+- **Game Design** using Unity
+  - Alexandria University, Alexandria, Egypt - On-Site.
+  - *July 2020 – August 2021 (120 Hours)*
+
 
 ### Technical Skills 🛠️
 - **Front-end Development:** HTML5, CSS3 (Sass, Less), JavaScript (ES6+), Bootstrap5, Tailwind CSS.
