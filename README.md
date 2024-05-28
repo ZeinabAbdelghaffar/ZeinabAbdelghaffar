@@ -11,8 +11,7 @@ Welcome to my GitHub profile! I'm a detail-oriented Full Stack Web Developer wit
 - **Bachelor of Data Science**
   - Faculty of Computer and Data Science, Alexandria University.
   - Major: Data Science.
-  - Graduation Project: Online Doctor (Android Application).
-  - Degree: A.
+  - Graduation Project: Online Doctor (Android Application) with Degree: A.
   - *2019 – 2023*
 
 
