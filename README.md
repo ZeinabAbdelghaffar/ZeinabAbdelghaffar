@@ -1,5 +1,5 @@
 # Zeinab Abdelghaffar 🚀
-## Software Engineer 💻
+## Software Engineer 💻 
 
 Welcome to my GitHub profile! I'm a detail-oriented Full Stack Web Developer with a passion for creating responsive, user-friendly websites. With a solid background in both front-end and back-end technologies, I strive to deliver high-quality solutions that meet both user needs and business objectives.
 
